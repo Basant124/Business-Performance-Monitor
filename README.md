@@ -59,10 +59,6 @@ SQL Server Database
 
 Azure Account (for Maps)
 
-🔧 Installation & Setup
-git clone https://github.com/yourusername/business-performance-monitor.git
-cd business-performance-monitor
-
 
 1️⃣ Open the Power BI file (BusinessPerformanceMonitor.pbix)
 2️⃣ Update database connection in Power Query
