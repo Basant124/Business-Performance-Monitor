@@ -78,9 +78,3 @@ Orders, Customers, Products, Employees, Suppliers, Categories
 
 📦 Inventory Optimization Insights
 
-📱 Mobile App Version
-
-🔌 External API Integrations
-⭐ If you like this project, please give it a star!
-
-Made with ❤️ by Basant Mohamed
